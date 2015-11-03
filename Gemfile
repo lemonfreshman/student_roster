@@ -1,13 +1,8 @@
 source 'https://rubygems.org'
 
-
 gem 'quiet_assets'
 gem 'guard-rspec'
 gem 'guard-rubocop'
-
-
-
-
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'

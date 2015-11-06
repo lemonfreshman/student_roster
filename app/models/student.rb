@@ -9,3 +9,10 @@ class Student < ActiveRecord::Base
   validates :email, format: /@/
 
 end
+
+=begin
+Possible Validations:
+    Require presence of all fields
+Validate format of email address
+Validate format of phone fields
+=end
